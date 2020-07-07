@@ -5,5 +5,5 @@ The app displays a list of recent earthquakes in the world from the U.S. Geologi
 
 presents the user with informations on all recorded earthquakes with an option to sort result according to user preferences.
 
-More info on the USGS Earthquake API available at: https://earthquake.usgs.gov/fdsnws/event/1/ .
+More info on the [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/).
 
